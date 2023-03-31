@@ -1,6 +1,6 @@
 Name:		texlive-semantic-markup
 Version:	53607
-Release:	1
+Release:	2
 Summary:	Meaningful semantic markup in the spirit of the Text Encoding Initiative
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/semantic-markup
