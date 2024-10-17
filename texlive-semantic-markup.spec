@@ -3,7 +3,7 @@ Version:	53607
 Release:	2
 Summary:	Meaningful semantic markup in the spirit of the Text Encoding Initiative
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/semantic-markup
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/semantic-markup
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/semantic-markup.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/semantic-markup.doc.r%{version}.tar.xz
